@@ -28,8 +28,9 @@ let g:airline_theme='molotov'
 ### Terminal colours
 Grab Molotov for your terminal as well!
 
--   [Molotov for iTerm2]
--   [Molotov for Terminal]
+- [Molotov for iTerm2]
+- [Molotov for Terminal]
+- [Molotov for Alacritty]
 
 ## Screenshots
 
@@ -58,3 +59,4 @@ Grab Molotov for your terminal as well!
 
 [Molotov for iTerm2]: https://raw.githubusercontent.com/gf3/dotfiles/master/Molotov.itermcolors
 [Molotov for Terminal]: https://raw.githubusercontent.com/gf3/dotfiles/master/Molotov.terminal
+[Molotov for Alacritty]: https://raw.githubusercontent.com/gf3/dotfiles/master/.alacritty.yml
