@@ -144,7 +144,7 @@ call s:HL('TabLineSel',   'coal',         'peter_river', 'none')
 
 call s:HL('MatchParen',   'sunflower',    'darkgravel',  'bold')
 
-call s:HL('NonText',      'deepgravel',   'bg')
+call s:HL('NonText',      'blackgravel',  'bg')
 call s:HL('SpecialKey',   'deepgravel',   'bg')
 
 call s:HL('Visual',       '',             'deepgravel')
